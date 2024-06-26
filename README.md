@@ -42,14 +42,5 @@
 </html>
 
 
-style.css
-
-ul.list a[href^="https"] {
-    color: red;
-}
-
-ul.list + p {
-    font-size: 24px;
-}
 
 
